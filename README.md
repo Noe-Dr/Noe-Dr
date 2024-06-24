@@ -12,7 +12,7 @@ I am a third-year computer engineering student at IMT Mines Albi (France), passi
 
 🌐 Connect with me:
 
-LinkedIn
+LinkedIn : www.linkedin.com/in/noe-dreau
 
 💻 Tech Stack:
 
