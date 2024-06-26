@@ -6,7 +6,8 @@ I am a third-year computer engineering student at IMT Mines Albi (France), passi
 
 🚀 What I'm Up To
 
-🤖 Exploring Machine Learning with scikit-learn, 
+🤖 Exploring Machine Learning with scikit-learn,
+
 💻 Building Spring Boot applications with PostgreSQL
 
 
