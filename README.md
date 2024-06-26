@@ -8,7 +8,6 @@ I am a third-year computer engineering student at IMT Mines Albi (France), passi
 
 🤖 Exploring Machine Learning with scikit-learn,
 
-💻 Building Spring Boot applications with PostgreSQL
 
 
 🌐 Connect with me:
