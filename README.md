@@ -16,7 +16,7 @@ LinkedIn : www.linkedin.com/in/noe-dreau
 
 💻 Tech Stack:
 
-Languages: Python Java SQL HTML5 CSS JavaScript
+Languages: Python Java SQL WEB3
 
 Developer Tools: PowerBI Git
 
